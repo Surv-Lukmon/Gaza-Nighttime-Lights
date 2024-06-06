@@ -5,11 +5,11 @@
 
 ### Nighttime Lights and Sentinel-2 Images before and after the Event
 
-![](Images/Linked_Maps.mp4)
 
-<video width="600"  height="520" controls>
-  <source src="Images/Linked_Maps.mp4" type="video/mp4">
-</video>
+https://github.com/Surv-Lukmon/Gaza-Nighttime-Lights/assets/81117834/4a61eb2f-73e7-4fd7-8c9c-808717b53a86
+
+
+
 
 ### Nighttime Lights and Sentinel-2 Images before and after the Event with building footprints damage from Jamon & Corey
 !["Linked Maps with building footprint damage"](Images/Gaza_Strip_Nighttime_Lights_and_Sentinel_2_DDMG.png) 
