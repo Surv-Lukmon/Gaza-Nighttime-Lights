@@ -4,7 +4,10 @@
 ## Visualization Results
 
 ### Nighttime Lights and Sentinel-2 Images before and after the Event
-<video width="600" controls>
+
+![](Images/Linked_Maps.mp4)
+
+<video width="600"  height="520" controls>
   <source src="Images/Linked_Maps.mp4" type="video/mp4">
 </video>
 
