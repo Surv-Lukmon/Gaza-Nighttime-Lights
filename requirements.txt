@@ -1,0 +1,7 @@
+python
+ipykernel
+geemap
+geopandas
+osmnx 
+
+
