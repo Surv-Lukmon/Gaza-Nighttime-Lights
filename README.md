@@ -3,9 +3,9 @@
 
 ## Visualization Results
 
-!["Linked Maps "](Images\Linked_Maps.mp4 "Nighttime Lights and Sentinel-2 Images before and after the Event")
+!["Linked Maps "](Images/Linked_Maps.mp4 "Nighttime Lights and Sentinel-2 Images before and after the Event")
 
-!["Linked Maps with building footprint damage"](Images\Gaza_Strip_Nighttime_Lights_and_Sentinel_2_DDMG.png "Nighttime Lights and Sentinel-2 Images before and after the Event with building footprints damage from Jamon & Corey") 
+!["Linked Maps with building footprint damage"](Images/Gaza_Strip_Nighttime_Lights_and_Sentinel_2_DDMG.png "Nighttime Lights and Sentinel-2 Images before and after the Event with building footprints damage from Jamon & Corey") 
 
 
 ## Data Sources & References
